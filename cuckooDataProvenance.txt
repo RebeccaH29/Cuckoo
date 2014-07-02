@@ -1,0 +1,7 @@
+The cuckoo data file is available from the following location:
+
+http://lib.stat.cmu.edu/DASL/Datafiles/cuckoodat.html
+
+Cuckoo Data Provenance
+
+1.The Cuckoo Egg Length data, together with its associated metadata was copied into Notepad from the above url.
